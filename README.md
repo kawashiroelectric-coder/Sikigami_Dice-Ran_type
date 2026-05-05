@@ -15,7 +15,7 @@ USBを繋がないとWifi関連の機能を使うことは出来ません
 
   ## 回路図
 ここに回路図の画像を貼る予定です。
-![回路図のイメージ](Rantype Main.jpg)
+![回路図のイメージ]([Rantype Main.jpg](https://github.com/kawashiroelectric-coder/Sikigami_Dice-Ran_type/blob/main/Rantype%20Main.jpg))
 
 ## 使い方
 1. `platformio.ini` を確認してマイコンを接続
