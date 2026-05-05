@@ -13,9 +13,10 @@ USBを繋がないとWifi関連の機能を使うことは出来ません
   - ポモドーロタイマー
   - 自然音の再生
 
-  ## 回路図
-ここに回路図の画像を貼る予定です。
+  ## 外観
 ![Rantype Main.jpg](https://github.com/kawashiroelectric-coder/Sikigami_Dice-Ran_type/blob/main/Rantype%20Main.jpg)
+  ## 回路図
+![Sikigami Dice Ran type.png](https://github.com/kawashiroelectric-coder/Sikigami_Dice-Ran_type/blob/main/hardware/schematic/Sikigami%20Dice%20Ran%20type.png)
 
 ## 使い方
 1. `platformio.ini` を確認してマイコンを接続
