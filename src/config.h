@@ -132,9 +132,9 @@ const uint8_t NUM_DICE_TYPES = sizeof(dice_types) / sizeof(dice_types[0]);
 #define DEBUG_ENCODER_INTERVAL 500  // エンコーダーデバッグ出力間隔（ms）
 
 // ============================================================================
-// OTA更新設定（SETTING→OTAで使用）
+// OTA更新設定（未使用）
 // ============================================================================
-#define OTA_FIRMWARE_URL "https://kawasiroelectric.com/firmware.bin"
+#define OTA_FIRMWARE_URL 
 #define OTA_PASSWORD_MAX_LEN 64
 #define OTA_WIFI_SCAN_MAX 20
 
